@@ -1,0 +1,14 @@
+name = "larvaerp-landing-page"
+type = "javascript"
+
+[env.production]
+name = "larvaerp-landing-page-prod"
+
+[build]
+command = "npm install && npm run build"
+cwd = "./"
+watch_paths = ["src/**/*.jsx"]
+
+[build.upload]
+format = "service-worker"
+main = "./dist/index.html"
