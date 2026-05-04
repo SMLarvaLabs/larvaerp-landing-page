@@ -13,7 +13,7 @@ export default function Hero() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center pt-8">
           <a
-            href="https://larvaerp.larvalabs-apps.store"
+            href="https://larvaerp-portal.larvalabs-apps.store"
             className="px-8 py-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg font-semibold text-lg hover:shadow-lg smooth-transition"
           >
             Launch App →

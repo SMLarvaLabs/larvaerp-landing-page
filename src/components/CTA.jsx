@@ -11,7 +11,7 @@ export default function CTA() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center pt-6">
             <a
-              href="https://larvaerp.larvalabs-apps.store"
+              href="https://larvaerp-portal.larvalabs-apps.store"
               className="px-8 py-4 bg-white text-blue-600 rounded-lg font-semibold text-lg hover:shadow-xl smooth-transition"
             >
               Launch LarvaERP Now
